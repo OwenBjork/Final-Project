@@ -5,7 +5,7 @@ class MyApp < Sinatra::Base
 
   get '/' do
     
-    erb :pattern_start
+    erb :index
   end
   get '/pattern' do
     @blocks = BlockGen.new
