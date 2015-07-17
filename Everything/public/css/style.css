@@ -1,0 +1,22 @@
+body{
+  background-color: black;
+}
+#world {
+  text-align: center;
+  
+}
+#world:hover{
+
+}
+h1 {
+  font-style: Helveta;
+  color: white
+}
+button {
+  text-align: right;
+  background-color: black;
+  color: white;
+}
+button:hover {
+  color: red;
+}
